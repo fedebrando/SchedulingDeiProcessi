@@ -4,9 +4,9 @@ Implementazione dei principali algoritmi di scheduling dei processi e loro appli
 
 Il programma deve essere lanciato da linea di comando con la seguente sintassi.
 
-$ ./scheduling [fileCfg_path]		(Linux)
+`$ ./scheduling [fileCfg_path]`   (Linux)
 
-C:\> scheduling [fileCfg_path]	(Windows)
+`C:\> scheduling [fileCfg_path]`	(Windows)
 
 Inizialmente vengono mostrati a video tutti i processi letti dal file di configurazione specificato (che ho chiamato "processi.cfg"); successivamente, per ogni algoritmo di scheduling, viene mostrato (su più righe) il loro ordine di esecuzione e infine il tempo medio d'attesa (con precisione fino alla seconda cifra decimale). Ogni riga relativa all'ordine d'esecuzione dei processi contiene le seguenti informazioni:
 - il nome del processo eseguito;
