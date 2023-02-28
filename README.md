@@ -15,10 +15,5 @@ Inizialmente vengono mostrati a video tutti i processi letti dal file di configu
 
 **************************
 
-L'assegnamento è stato svolto in linguaggio C e implementato in un progetto con l'IDE Code::Blocks. Tutte le funzioni o procedure utilizzate sono state raccolte in una libreria di codice con file di intestazione "_schedule.h".
-All'interno di questa cartella sono presenti due files target: uno per Linux ("scheduling") e uno per Windows ("scheduling.exe").
-
-**************************
-
 Federico Brandini
 mat. 317271
